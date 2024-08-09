@@ -1,3 +1,5 @@
+//Divyansh Rastogi
+//23070123048
 #include<iostream>
 using namespace std;
 int main(){
@@ -37,3 +39,9 @@ int main(){
 			}
     }
 }
+/* output :-
+Enter the number 1: 55
+Enter the number 2: 45
+Enter the choice1
+Addition is : 100 */
+	
